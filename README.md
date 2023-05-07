@@ -1,5 +1,5 @@
 # Inception-Cam
-An HLAE tool to create inception cam transitions.
+A HLAE tool to create inception cam transitions.
 
 ## Usage
 * Record and save the first campath
