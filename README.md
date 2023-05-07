@@ -2,8 +2,8 @@
 An HLAE tool to create inception cam transitions.
 
 # Usage
-* Record and save the first campath.
-* Use the ingame command `getpos` at the position where you want the campath to happen.
+* Record and save the first campath
+* Use the ingame command `getpos` at the position where you want the campath to happen
 * Drag and drop the saved campath onto the InceptionCam.exe
 * Enter your `getpos` value 
    - Format examples:
